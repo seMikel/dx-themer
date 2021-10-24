@@ -1,0 +1,25 @@
+{
+  "name": "dx-themer",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "list-vars": "dx-themer list-vars",
+    "generate-scheme": "dx-themer generate-scheme",
+    "generate-scss-example": "dx-themer generate-scss -s example/scheme.json -n example/naming.json -v example/variables.scss",
+    "update-theme-example": "dx-themer update-theme -s example/scheme.json -n example/naming.json -v example/theme.scss -t example/dx.example.scss",
+    "test": "devextreme export-theme-meta"
+  },
+  "bin": {
+    "dx-themer": "index.js"
+  },
+  "author": {
+    "name": "Michael Colesnic",
+    "url": "https://github.com/semikel"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "devextreme-cli": "^1.2.0"
+  }
+}

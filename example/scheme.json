@@ -1,0 +1,162 @@
+{
+    "items": [{
+        "key": "$base-font-family",
+        "value": "'Montserrat', sans-serif"
+    }, {
+        "key": "$base-accent",
+        "value": "rgba(232, 67, 21, 1)"
+    }, {
+        "key": "$base-border-color",
+        "value": "rgba(238, 238, 238, 1)"
+    }, {
+        "key": "$base-text-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$texteditor-placeholder-color",
+        "value": "rgba(136, 136, 136, 1)"
+    }, {
+        "key": "$base-bg",
+        "value": "rgba(245, 244, 245, 1)"
+    }, {
+        "key": "$base-success",
+        "value": "rgba(102, 204, 153, 1)"
+    }, {
+        "key": "$base-danger",
+        "value": "rgba(210, 108, 103, 1)"
+    }, {
+        "key": "$base-warning",
+        "value": "rgba(255, 204, 90, 1)"
+    }, {
+        "key": "$texteditor-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$texteditor-border-color",
+        "value": "rgba(238, 238, 238, 1)"
+    }, {
+        "key": "$texteditor-hover-border-color",
+        "value": "rgba(238, 238, 238, 1)"
+    }, {
+        "key": "$textbox-search-icon-color",
+        "value": "rgba(232, 67, 21, 1)"
+    }, {
+        "key": "$dropdowneditor-icon-active-color",
+        "value": "rgba(232, 67, 21, 1)"
+    }, {
+        "key": "$calendar-header-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$calendar-cell-other-color",
+        "value": "rgba(207, 189, 189, 1)"
+    }, {
+        "key": "$calendar-cell-selected-bg",
+        "value": "rgba(242, 141, 113, 1)"
+    }, {
+        "key": "$switch-handle-off-bg",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$switch-bg",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$tagbox-tag-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$tagbox-tag-bg",
+        "value": "rgba(224, 224, 224, 1)"
+    }, {
+        "key": "$base-hover-bg",
+        "value": "rgba(255, 255, 255, 0.4)"
+    }, {
+        "key": "$base-focus-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$base-focus-bg",
+        "value": "rgba(255, 255, 255, 0.4)"
+    }, {
+        "key": "$base-border-radius",
+        "value": "0px"
+    }, {
+        "key": "$badge-bg",
+        "value": "rgba(232, 67, 21, 1)"
+    }, {
+        "key": "$datagrid-menu-icon-color",
+        "value": "rgba(232, 67, 21, 1)"
+    }, {
+        "key": "$datagrid-columnchooser-item-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$datagrid-columnchooser-font-weight",
+        "value": "700"
+    }, {
+        "key": "$datagrid-group-row-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$datagrid-summary-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$datagrid-search-bg",
+        "value": "rgba(232, 67, 21, 1)"
+    }, {
+        "key": "$datagrid-search-color",
+        "value": "rgba(255, 255, 255, 1)"
+    }, {
+        "key": "$pivotgrid-area-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$tooltip-bg",
+        "value": "rgba(245, 244, 245, 1)"
+    }, {
+        "key": "$menu-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$menu-item-selected-bg",
+        "value": "rgba(245, 244, 245, 1)"
+    }, {
+        "key": "$navbar-tab-bg",
+        "value": "rgba(255, 255, 255, 1)"
+    }, {
+        "key": "$navbar-tab-selected-bg",
+        "value": "rgba(245, 244, 245, 1)"
+    }, {
+        "key": "$tabs-hovered-tab-bg-color",
+        "value": "rgba(245, 244, 245, 1)"
+    }, {
+        "key": "$tabs-tab-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$form-field-item-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$tabs-tab-bg",
+        "value": "rgba(255, 255, 255, 0)"
+    }, {
+        "key": "$list-item-active-bg",
+        "value": "rgba(242, 141, 113, 1)"
+    }, {
+        "key": "$toast-info-bg",
+        "value": "rgba(255, 255, 255, 1)"
+    }, {
+        "key": "$tooltip-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$toast-color",
+        "value": "rgba(54, 56, 57, 1)"
+    }, {
+        "key": "$toast-warning-bg",
+        "value": "rgba(255, 255, 255, 1)"
+    }, {
+        "key": "$toast-error-bg",
+        "value": "rgba(255, 255, 255, 1)"
+    }, {
+        "key": "$toast-success-bg",
+        "value": "rgba(255, 255, 255, 1)"
+    }, {
+        "key": "$datagrid-selection-bg",
+        "value": "rgba(246, 179, 160, 1)"
+    }],
+    "baseTheme": "material.orange.light",
+    "outputColorScheme": "example",
+    "makeSwatch": false,
+    "version": "21.1.4",
+    "widgets": [],
+    "removeExternalResources": false
+}

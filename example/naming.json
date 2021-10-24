@@ -1,0 +1,11 @@
+{
+    "base-font-family": "fontFamily",
+    "base-border-color": "borderColor",
+    "base-text-color": "primaryText",
+    "base-accent": "orange",
+    "texteditor-placeholder-color": "secondaryText",
+    "base-bg": "backgroundColor",
+    "base-success": "positiveColor",
+    "base-danger": "negativeColor",
+    "base-warning": "warningColor"
+}
