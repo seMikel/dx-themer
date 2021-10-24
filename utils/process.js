@@ -1,6 +1,6 @@
 const {
     exec
-} = require("child_process");
+} = require('child_process');
 const path = require('path');
 
 const execute = (command, args, cb) => {
